@@ -81,7 +81,7 @@ function App() {
             </h3>
           </header>
 
-          <div className=" hidden md:flex absolute top-5 right-5 justify-between w-48 ">
+          <div className=" hidden md:flex absolute top-5 right-5 justify-between w-48 landscape:justify-end gap-4 ">
             <Button name="Log in" />
             <Button name="Sign in" />
           </div>
